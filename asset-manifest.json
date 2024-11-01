@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Marknox-Assignment-Portfolio/static/css/main.4749f186.css",
+    "main.js": "/Marknox-Assignment-Portfolio/static/js/main.ea5e7657.js",
+    "static/js/453.1407b060.chunk.js": "/Marknox-Assignment-Portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/github.svg": "/Marknox-Assignment-Portfolio/static/media/github.5531be85d7a8d6f333e5c7136944a022.svg",
+    "static/media/gmail.svg": "/Marknox-Assignment-Portfolio/static/media/gmail.29ac350df92c649ab87525a839df486e.svg",
+    "static/media/youtube.svg": "/Marknox-Assignment-Portfolio/static/media/youtube.361fd800e39dcb080516df2e39c7a994.svg",
+    "static/media/linkedin.svg": "/Marknox-Assignment-Portfolio/static/media/linkedin.273511fb10ee9bfadc8cf9a87d4279e0.svg",
+    "index.html": "/Marknox-Assignment-Portfolio/index.html",
+    "static/media/x.svg": "/Marknox-Assignment-Portfolio/static/media/x.63e6aefc8ecac35cc4c791e1f6b6bd8d.svg",
+    "main.4749f186.css.map": "/Marknox-Assignment-Portfolio/static/css/main.4749f186.css.map",
+    "main.ea5e7657.js.map": "/Marknox-Assignment-Portfolio/static/js/main.ea5e7657.js.map",
+    "453.1407b060.chunk.js.map": "/Marknox-Assignment-Portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4749f186.css",
+    "static/js/main.ea5e7657.js"
+  ]
+}
