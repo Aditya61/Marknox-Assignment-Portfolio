@@ -7,7 +7,7 @@ import X from './static/x.svg';
 
 export function Footer() {
     return (
-        <footer className='bg-teal-500 p-10'>
+        <footer className='bg-blue-300 p-10'>
             <div className='contact w-full text-center'>
                 <a className='inline-flex px-5' href='/'><img className='h-8 w-8' alt='Gmail' src={Gmail} /></a>
                 <a className='inline-flex px-5' href='/'><img className='h-8 w-8' alt='Linkedin' src={Linkedin} /></a>
